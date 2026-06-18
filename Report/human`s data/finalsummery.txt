@@ -1,0 +1,14 @@
+
+Minimum Reaction Time: 0.428 seconds
+Maximum Reaction Time: 3.744 seconds
+Median Reaction Time: 1.073 seconds
+Standard Deviation: 0.363 seconds
+
+========== SUMMARY MESSAGE ==========
+You completed 600 trials with 81.0% overall accuracy.
+Your average reaction time was 0.990 seconds.
+
+Best performance: Animall Head with 100.0% accuracy and 5.0 average confidence
+Worst performance: NonAnimall CloseBody with 55.1% accuracy and 4.3 average confidence
+
+Results saved to results.mat and results.csv

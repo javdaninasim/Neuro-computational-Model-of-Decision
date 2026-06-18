@@ -1,0 +1,601 @@
+file,category,distance,response,reaction_time,confidence,correct
+H_ani50.jpg,animal,head,animal,963.91,91.07883817427388,1
+Fda_A805045.jpg,non-animal,far body,non-animal,998.91,84.97913769123781,1
+M_ani6.jpg,animal,medium body,animal,948.91,87.3991935483871,1
+Bda_art1155.jpg,non-animal,close body,non-animal,958.91,87.70833333333331,1
+Bda_art629.jpg,non-animal,close body,non-animal,998.91,90.15544041450778,1
+B_ani30.jpg,animal,close body,animal,983.91,89.8803046789989,1
+M_ani61.jpg,animal,medium body,animal,973.91,89.03635314483556,1
+Bda_art1157.jpg,non-animal,close body,non-animal,988.91,82.58064516129032,1
+M_N16061.jpg,animal,medium body,animal,983.91,82.62068965517241,1
+Fda_A683045.jpg,non-animal,far body,non-animal,978.91,87.09677419354838,1
+M_ani28.jpg,animal,medium body,animal,1003.91,88.16018572257691,1
+Fda_A683031.jpg,non-animal,far body,animal,958.91,56.250000000000014,0
+Hda_obj73.jpg,non-animal,head,non-animal,978.91,89.28781636256622,1
+H_ani23.jpg,animal,head,animal,1023.91,86.26553302812296,1
+Mda_art22.jpg,non-animal,medium body,non-animal,1008.91,77.21893491124261,1
+H_N42076.jpg,animal,head,animal,1623.91,94.4700460829493,1
+Hda_int170.jpg,non-animal,head,non-animal,973.91,86.4495798319328,1
+M_N42095.jpg,animal,medium body,animal,993.91,83.99999999999999,1
+Bda_art1158.jpg,non-animal,close body,non-animal,963.91,90.31281533804238,1
+B_N43082.jpg,animal,close body,animal,1013.91,91.9674039580908,1
+H_ani41.jpg,animal,head,animal,1023.91,78.32988267770877,1
+M_N42052.jpg,animal,medium body,animal,1178.91,93.40519974635384,1
+F_N42035.jpg,animal,far body,animal,1558.91,90.94865100087031,1
+Hda_obj76.jpg,non-animal,head,non-animal,958.91,85.7508969759098,1
+B_N42067.jpg,animal,close body,animal,958.91,81.18466898954705,1
+Fda_A803044.jpg,non-animal,far body,non-animal,1173.91,91.24528301886794,1
+M_N43022.jpg,animal,medium body,animal,963.91,91.5826911677534,1
+Hda_obj25.jpg,non-animal,head,non-animal,1008.91,76.81159420289855,1
+F_ani29.jpg,animal,far body,animal,1023.91,85.60860793544047,1
+B_N70085.jpg,animal,close body,animal,1013.91,91.08196721311477,1
+Hda_obj56.jpg,non-animal,head,animal,933.91,67.1346853874155,0
+Hda_obj2.jpg,non-animal,head,non-animal,1058.91,89.10447761194031,1
+F_ani42.jpg,animal,far body,animal,1373.91,81.02893890675239,1
+H_N49017.jpg,animal,head,animal,933.91,88.95536125172573,1
+B_N49068.jpg,animal,close body,animal,908.91,91.26034958601656,1
+H_N16054.jpg,animal,head,animal,998.91,85.67199526346951,1
+F_N16076.jpg,animal,far body,animal,1013.91,61.14285714285715,1
+H_N42010.jpg,animal,head,animal,933.91,87.65565782349756,1
+Mda_archi100.jpg,non-animal,medium body,non-animal,988.91,44.44444444444445,1
+Bda_art1147.jpg,non-animal,close body,non-animal,1073.91,79.69991173874668,1
+Hda_obj1.jpg,non-animal,head,non-animal,938.91,82.6673585884795,1
+Mda_archi56.jpg,non-animal,medium body,non-animal,1433.91,94.148244473342,1
+Hda_obj81.jpg,non-animal,head,non-animal,953.91,85.07295173961842,1
+Bda_art682.jpg,non-animal,close body,non-animal,923.91,83.69936554416788,1
+Mda_archi42.jpg,non-animal,medium body,non-animal,1243.91,93.62808842652797,1
+Fda_A223013.jpg,non-animal,far body,non-animal,988.91,84.71641791044776,1
+F_N43032.jpg,animal,far body,animal,988.91,83.98637137989778,1
+H_N42094.jpg,animal,head,animal,1003.91,89.53341740226986,1
+M_ani44.jpg,animal,medium body,animal,938.91,89.80957282552754,1
+Hda_obj74.jpg,non-animal,head,non-animal,968.91,89.6761133603239,1
+Hda_obj84.jpg,non-animal,head,non-animal,973.91,89.14646996838779,1
+M_N42072.jpg,animal,medium body,animal,993.91,81.26219908913465,1
+F_land893.jpg,animal,far body,animal,908.91,56.5359477124183,1
+Fda_A223024.jpg,non-animal,far body,animal,1023.91,16.587677725118493,0
+F_land79.jpg,animal,far body,animal,1018.91,92.00470311581422,1
+F_N43043.jpg,animal,far body,animal,933.91,87.87515006002401,1
+F_ani52.jpg,animal,far body,animal,1463.91,94.86260454002392,1
+Hda_int453.jpg,non-animal,head,tie,898.91,78.89641819941917,0
+H_N42029.jpg,animal,head,animal,963.91,89.58534233365478,1
+Hda_obj12.jpg,non-animal,head,animal,953.91,82.57173219978745,0
+F_N16060.jpg,animal,far body,animal,1123.91,91.34796238244516,1
+Bda_art1156.jpg,non-animal,close body,non-animal,968.91,91.88376753507012,1
+B_N49001.jpg,animal,close body,non-animal,948.91,81.19935170178283,0
+Fda_A487031.jpg,non-animal,far body,non-animal,1033.91,47.94794794794795,1
+Mda_archi327.jpg,non-animal,medium body,non-animal,1023.91,90.8267954133977,1
+Mda_art450.jpg,non-animal,medium body,non-animal,1003.91,87.95749704840614,1
+H_N16057.jpg,animal,head,animal,1028.91,91.256157635468,1
+Bda_art621.jpg,non-animal,close body,non-animal,913.91,85.90389016018307,1
+Fda_A805078.jpg,non-animal,far body,non-animal,1258.91,92.7063339731286,1
+M_N42008.jpg,animal,medium body,animal,1018.91,88.09688581314879,1
+F_N43008.jpg,animal,far body,animal,938.91,91.32093466857415,1
+Fda_A219084.jpg,non-animal,far body,non-animal,988.91,58.80398671096345,1
+Hda_obj65.jpg,non-animal,head,non-animal,958.91,85.5087358684481,1
+Fda_A277094.jpg,non-animal,far body,animal,998.91,88.15080789946141,0
+M_ani47.jpg,animal,medium body,animal,1008.91,84.8116646415553,1
+Mda_arnat105.jpg,non-animal,medium body,non-animal,953.91,84.55158113011922,1
+M_N42048.jpg,animal,medium body,animal,1013.91,82.62874711760185,1
+Fda_A673062.jpg,non-animal,far body,non-animal,1013.91,84.63667820069203,1
+Bda_art671.jpg,non-animal,close body,non-animal,918.91,87.86797502230152,1
+M_N42070.jpg,animal,medium body,animal,993.91,89.41504178272982,1
+Bda_art1111.jpg,non-animal,close body,non-animal,908.91,91.56521739130434,1
+Hda_int314.jpg,non-animal,head,animal,983.91,72.20843672456574,0
+Hda_obj71.jpg,non-animal,head,non-animal,923.91,88.08265257087939,1
+M_N42088.jpg,animal,medium body,animal,1208.91,92.97458893871448,1
+M_N16058.jpg,animal,medium body,animal,983.91,87.72935779816513,1
+B_N75034.jpg,animal,close body,animal,878.91,86.40033999150022,1
+Hda_int536.jpg,non-animal,head,non-animal,893.91,84.87972508591065,1
+Mda_art376.jpg,non-animal,medium body,non-animal,988.91,83.28659562535053,1
+Bda_art642.jpg,non-animal,close body,non-animal,953.91,86.03716725263688,1
+H_ani4.jpg,animal,head,animal,1028.91,87.22580645161291,1
+Bda_art904.jpg,non-animal,close body,non-animal,958.91,89.8107714701601,1
+Mda_art438.jpg,non-animal,medium body,animal,943.91,59.44767441860465,0
+H_N42074.jpg,animal,head,animal,983.91,92.3756906077348,1
+Mda_archi289.jpg,non-animal,medium body,non-animal,903.91,86.83498647430116,1
+Fda_A804076.jpg,non-animal,far body,animal,728.91,6.813996316758752,0
+Fda_A244068.jpg,non-animal,far body,non-animal,988.91,91.70305676855897,1
+B_N70015.jpg,animal,close body,animal,893.91,90.82908754052804,1
+Mda_art361.jpg,non-animal,medium body,non-animal,868.91,3.167420814479632,1
+M_N42005.jpg,animal,medium body,animal,1003.91,83.50785340314135,1
+Bda_art685.jpg,non-animal,close body,non-animal,938.91,84.65346534653465,1
+M_N16073.jpg,animal,medium body,animal,1083.91,84.64516129032256,1
+F_N42070.jpg,animal,far body,animal,963.91,91.95684158901422,1
+F_N43060.jpg,animal,far body,animal,1553.91,94.25287356321836,1
+Mda_art475.jpg,non-animal,medium body,non-animal,988.91,88.88311688311687,1
+Mda_art509.jpg,non-animal,medium body,non-animal,973.91,86.84355997788833,1
+Hda_obj7.jpg,non-animal,head,non-animal,963.91,91.07611548556427,1
+H_N16059.jpg,animal,head,non-animal,1138.91,91.78470254957506,0
+Fda_A683068.jpg,non-animal,far body,animal,798.91,20.372836218375504,0
+H_N49032.jpg,animal,head,animal,993.91,91.38031450203844,1
+B_N49021.jpg,animal,close body,animal,858.91,87.67006802721089,1
+Mda_archi303.jpg,non-animal,medium body,animal,993.91,79.51450562462996,0
+F_ani25.jpg,animal,far body,animal,943.91,88.87171561051004,1
+Fda_A463036.jpg,non-animal,far body,non-animal,1023.91,84.50074515648285,1
+Hda_obj51.jpg,non-animal,head,non-animal,993.91,83.46498156924696,1
+Fda_A673086.jpg,non-animal,far body,animal,988.91,27.746741154562397,0
+Fda_A804056.jpg,non-animal,far body,animal,973.91,63.6,0
+M_ani27.jpg,animal,medium body,animal,1033.91,89.19247115968427,1
+Hda_obj5.jpg,non-animal,head,non-animal,1023.91,83.7769328263625,1
+Fda_A463033.jpg,non-animal,far body,non-animal,1428.91,91.66097060833904,1
+F_N43031.jpg,animal,far body,animal,983.91,89.16528468767275,1
+H_N42026.jpg,animal,head,animal,983.91,92.43986254295532,1
+Fda_A244041.jpg,non-animal,far body,non-animal,933.91,84.8694725625999,1
+Hda_obj59.jpg,non-animal,head,non-animal,933.91,88.10114030738721,1
+Mda_arnat70.jpg,non-animal,medium body,animal,1023.91,78.21393523061826,0
+B_N43027.jpg,animal,close body,animal,953.91,91.41341051616016,1
+Bda_art921.jpg,non-animal,close body,non-animal,1003.91,73.00177619893428,1
+Mda_archi277.jpg,non-animal,medium body,animal,1018.91,60.65573770491805,0
+Mda_archi215.jpg,non-animal,medium body,non-animal,1008.91,83.97553516819572,1
+H_N42033.jpg,animal,head,animal,1228.91,91.98113207547168,1
+F_N16064.jpg,animal,far body,animal,1058.91,91.98448610213316,1
+Bda_art1117.jpg,non-animal,close body,non-animal,1003.91,91.5032679738562,1
+B_N77033.jpg,animal,close body,animal,993.91,91.03335155822852,1
+B_ani51.jpg,animal,close body,animal,963.91,91.1750123946455,1
+F_N16063.jpg,animal,far body,animal,1013.91,87.11374095989481,1
+Mda_archi422.jpg,non-animal,medium body,animal,993.91,44.462279293739975,0
+H_N42034.jpg,animal,head,animal,1008.91,80.46132971506107,1
+Bda_art145.jpg,non-animal,close body,non-animal,1038.91,90.63545150501672,1
+F_N43061.jpg,animal,far body,animal,1013.91,83.51822503961964,1
+Bda_art1152.jpg,non-animal,close body,non-animal,998.91,87.0402802101576,1
+Bda_art923.jpg,non-animal,close body,non-animal,998.91,89.66829798803698,1
+Mda_archi233.jpg,non-animal,medium body,non-animal,958.91,42.85714285714287,1
+Bda_art1079.jpg,non-animal,close body,non-animal,933.91,80.01850138760406,1
+Mda_archi37.jpg,non-animal,medium body,animal,903.91,80.34769463340892,0
+H_N42041.jpg,animal,head,animal,968.91,90.13761467889908,1
+F_N43036.jpg,animal,far body,animal,988.91,65.51724137931035,1
+Fda_A517086.jpg,non-animal,far body,non-animal,1248.91,90.53254437869822,1
+Bda_art971.jpg,non-animal,close body,non-animal,1018.91,93.74301675977654,1
+Fda_A487089.jpg,non-animal,far body,non-animal,1008.91,75.65055762081785,1
+Bda_art1067.jpg,non-animal,close body,non-animal,943.91,87.66265060240964,1
+Bda_art673.jpg,non-animal,close body,non-animal,933.91,87.91666666666667,1
+H_ani56.jpg,animal,head,animal,1018.91,89.67391304347827,1
+Mda_art337.jpg,non-animal,medium body,non-animal,1218.91,91.15281501340482,1
+Fda_A698003.jpg,non-animal,far body,animal,928.91,26.484751203852326,0
+Mda_art175.jpg,non-animal,medium body,animal,1583.91,95.93582887700536,0
+M_N42053.jpg,animal,medium body,animal,1018.91,90.515708358032,1
+B_N75095.jpg,animal,close body,animal,1013.91,93.8706015891033,1
+H_N16055.jpg,animal,head,animal,958.91,90.79379990605918,1
+Mda_art7.jpg,non-animal,medium body,non-animal,998.91,89.31462493254183,1
+Bda_art679.jpg,non-animal,close body,non-animal,893.91,86.76190476190474,1
+Hda_int457.jpg,non-animal,head,animal,1013.91,64.99356499356497,0
+B_N70069.jpg,animal,close body,animal,1058.91,71.42857142857142,1
+F_land891.jpg,animal,far body,animal,938.91,88.52791878172587,1
+B_N42019.jpg,animal,close body,animal,983.91,77.33875653689715,1
+H_ani7.jpg,animal,head,animal,978.91,93.62025316455696,1
+Mda_art517.jpg,non-animal,medium body,non-animal,993.91,80.27828191167573,1
+M_ani57.jpg,animal,medium body,animal,1133.91,91.17832388153748,1
+Bda_art142.jpg,non-animal,close body,non-animal,998.91,85.98802395209582,1
+H_N49030.jpg,animal,head,non-animal,1198.91,91.3779830638953,0
+Fda_A462040.jpg,non-animal,far body,animal,993.91,83.69652945924132,0
+F_land764.jpg,animal,far body,animal,1173.91,94.11764705882354,1
+B_ani37.jpg,animal,close body,animal,1003.91,92.4487594390507,1
+Hda_obj57.jpg,non-animal,head,non-animal,953.91,87.51872191712432,1
+Hda_int168.jpg,non-animal,head,non-animal,953.91,81.11058376839108,1
+Hda_obj47.jpg,non-animal,head,non-animal,988.91,89.74063400576368,1
+F_ani14.jpg,animal,far body,animal,1253.91,92.2246220302376,1
+M_N42046.jpg,animal,medium body,animal,1003.91,25.25951557093426,1
+M_N16063.jpg,animal,medium body,animal,988.91,82.66741699493528,1
+B_N42028.jpg,animal,close body,animal,878.91,84.15686274509804,1
+Hda_int888.jpg,non-animal,head,non-animal,953.91,91.60493827160494,1
+H_N43023.jpg,animal,head,animal,948.91,92.867332382311,1
+B_N43014.jpg,animal,close body,animal,998.91,85.45716342692585,1
+B_N75036.jpg,animal,close body,animal,888.91,89.98693948628647,1
+Fda_A463059.jpg,non-animal,far body,animal,1008.91,89.04109589041097,0
+F_land93.jpg,animal,far body,animal,1248.91,92.01651754989678,1
+Mda_art242.jpg,non-animal,medium body,non-animal,1658.91,93.1726907630522,1
+B_ani39.jpg,animal,close body,animal,1003.91,91.57641395908544,1
+Fda_A731012.jpg,non-animal,far body,animal,843.91,35.714285714285715,0
+M_N43047.jpg,animal,medium body,animal,988.91,91.00499722376458,1
+M_N16071.jpg,animal,medium body,animal,988.91,89.52134540750322,1
+Bda_art623.jpg,non-animal,close body,non-animal,938.91,84.73520249221184,1
+M_ani15.jpg,animal,medium body,animal,1028.91,84.91171749598716,1
+B_N52040.jpg,animal,close body,animal,998.91,89.81380065717414,1
+B_N49022.jpg,animal,close body,animal,1018.91,91.01258238466148,1
+F_ani22.jpg,animal,far body,animal,968.91,86.31921824104234,1
+B_N77030.jpg,animal,close body,animal,903.91,90.89667728720984,1
+F_N42093.jpg,animal,far body,animal,968.91,85.31645569620252,1
+H_ani49.jpg,animal,head,animal,983.91,90.66601847350508,1
+B_N49023.jpg,animal,close body,animal,968.91,84.66135458167331,1
+B_N52033.jpg,animal,close body,animal,998.91,92.37057220708444,1
+H_ani1.jpg,animal,head,animal,968.91,93.06358381502888,1
+H_N70096.jpg,animal,head,animal,1013.91,90.88937093275489,1
+Fda_art772.jpg,non-animal,far body,animal,1013.91,34.50292397660819,0
+M_N77082.jpg,animal,medium body,animal,1133.91,90.94890510948905,1
+Bda_art1256.jpg,non-animal,close body,non-animal,943.91,90.2104747919726,1
+Bda_gre328.jpg,non-animal,close body,non-animal,943.91,85.72834645669292,1
+B_N77078.jpg,animal,close body,animal,928.91,91.42335766423356,1
+M_N77092.jpg,animal,medium body,animal,1563.91,94.68170829975826,1
+Bda_art1271.jpg,non-animal,close body,non-animal,1003.91,92.04134366925064,1
+M_N100023.jpg,animal,medium body,animal,1558.91,95.54263565891472,1
+Fda_art336.jpg,non-animal,far body,non-animal,963.91,46.29629629629631,1
+M_N77031.jpg,animal,medium body,animal,933.91,89.24833491912464,1
+Fda_art32.jpg,non-animal,far body,non-animal,1318.91,94.12140575079871,1
+Hda_obj95.jpg,non-animal,head,non-animal,993.91,83.00935925125991,1
+H_N70060.jpg,animal,head,animal,1133.91,92.78557114228458,1
+Mda_art675.jpg,non-animal,medium body,non-animal,973.91,88.58093126385809,1
+H_N49074.jpg,animal,head,animal,1108.91,94.53273998728544,1
+Hda_obj105.jpg,non-animal,head,animal,1003.91,80.80101716465353,0
+M_N70003.jpg,animal,medium body,animal,1233.91,91.54443485763588,1
+Bda_art1288.jpg,non-animal,close body,non-animal,903.91,89.88954970263381,1
+B_N106014.jpg,animal,close body,animal,973.91,93.192868719611,1
+H_N70070.jpg,animal,head,animal,958.91,90.94076655052264,1
+M_N103045.jpg,animal,medium body,animal,1033.91,84.43113772455091,1
+F_N70038.jpg,animal,far body,tie,978.91,55.37953795379538,0
+Hda_obj97.jpg,non-animal,head,animal,998.91,79.71014492753623,0
+B_N103086.jpg,animal,close body,animal,943.91,93.8945420906568,1
+Fda_art464.jpg,non-animal,far body,non-animal,1188.91,77.10109622411694,1
+M_N70025.jpg,animal,medium body,animal,1223.91,79.23664122137406,1
+Hda_obj252.jpg,non-animal,head,non-animal,898.91,82.06195099398983,1
+F_N77054.jpg,animal,far body,animal,988.91,89.74358974358975,1
+B_N108087.jpg,animal,close body,non-animal,943.91,86.75363773206222,0
+Hda_obj89.jpg,non-animal,head,non-animal,943.91,84.0607210626186,1
+Hda_obj205.jpg,non-animal,head,non-animal,993.91,90.70631970260224,1
+F_N77056.jpg,animal,far body,animal,1003.91,88.02862719583602,1
+H_N49094.jpg,animal,head,animal,893.91,91.3089005235602,1
+B_N107010.jpg,animal,close body,animal,988.91,89.46796959826275,1
+H_N100021.jpg,animal,head,animal,943.91,90.0335409678965,1
+F_N43063.jpg,animal,far body,non-animal,1058.91,88.89582033686835,0
+H_N100078.jpg,animal,head,animal,988.91,85.54385964912282,1
+Mda_art1030.jpg,non-animal,medium body,non-animal,958.91,75.64575645756457,1
+Bda_art1185.jpg,non-animal,close body,non-animal,1018.91,90.33864541832668,1
+Hda_obj176.jpg,non-animal,head,non-animal,1018.91,90.10123734533182,1
+Mda_art573.jpg,non-animal,medium body,non-animal,943.91,81.50224215246637,1
+Hda_obj98.jpg,non-animal,head,non-animal,948.91,83.27560613557645,1
+Bda_int30.jpg,non-animal,close body,non-animal,973.91,90.57437407952872,1
+Mda_art545.jpg,non-animal,medium body,tie,978.91,88.75878220140514,0
+Fda_arnat64.jpg,non-animal,far body,non-animal,973.91,46.66666666666667,1
+F_N77018.jpg,animal,far body,non-animal,1008.91,73.64657814096017,0
+H_N49084.jpg,animal,head,animal,1003.91,87.02460850111856,1
+M_N77054.jpg,animal,medium body,animal,893.91,79.66926070038912,1
+Hda_obj96.jpg,non-animal,head,non-animal,1008.91,89.94677705499704,1
+Hda_obj99.jpg,non-animal,head,non-animal,993.91,87.26270667483159,1
+M_N43098.jpg,animal,medium body,animal,948.91,89.31782125859333,1
+F_N77077.jpg,animal,far body,animal,988.91,91.20234604105572,1
+Fda_art1015.jpg,non-animal,far body,non-animal,1018.91,60.22253129346316,1
+F_N77073.jpg,animal,far body,animal,1468.91,96.207473508087,1
+F_N77032.jpg,animal,far body,non-animal,988.91,85.99752168525403,0
+F_N77071.jpg,animal,far body,animal,1503.91,94.08866995073892,1
+Hda_obj111.jpg,non-animal,head,non-animal,973.91,89.40914158305463,1
+H_N104010.jpg,animal,head,animal,938.91,90.8778813143698,1
+Hda_obj182.jpg,non-animal,head,non-animal,968.91,86.33377135348225,1
+F_N103058.jpg,animal,far body,animal,978.91,72.29219143576826,1
+Bda_art1263.jpg,non-animal,close body,non-animal,963.91,89.05864958107442,1
+B_N106019.jpg,animal,close body,animal,963.91,80.56293149229951,1
+Fda_art1420.jpg,non-animal,far body,animal,908.91,1.7077798861480118,0
+Mda_art1665.jpg,non-animal,medium body,non-animal,983.91,86.16422947131608,1
+Mda_gre178.jpg,non-animal,medium body,non-animal,928.91,83.50202429149797,1
+H_N100063.jpg,animal,head,tie,923.91,57.61904761904763,0
+Bda_enc89.jpg,non-animal,close body,non-animal,898.91,89.94614003590664,1
+Fda_art779.jpg,non-animal,far body,animal,923.91,47.10556186152101,0
+M_N100095.jpg,animal,medium body,non-animal,1038.91,80.79673135852912,0
+F_N77002.jpg,animal,far body,non-animal,1143.91,90.8344733242134,0
+Fda_A805085.jpg,non-animal,far body,animal,1123.91,83.30827067669172,0
+Hda_obj92.jpg,non-animal,head,non-animal,1023.91,74.8075577326802,1
+Fda_art1204.jpg,non-animal,far body,animal,1003.91,49.23076923076922,0
+M_N77057.jpg,animal,medium body,animal,983.91,73.70078740157481,1
+Mda_art599.jpg,non-animal,medium body,animal,938.91,38.04213135068155,0
+M_N103026.jpg,animal,medium body,animal,928.91,87.59379689844924,1
+Fda_art1469.jpg,non-animal,far body,non-animal,983.91,87.68886401790711,1
+Bda_int110.jpg,non-animal,close body,non-animal,1463.91,95.4087346024636,1
+M_N43094.jpg,animal,medium body,animal,968.91,86.90284487385938,1
+Bda_art1171.jpg,non-animal,close body,non-animal,1468.91,94.84536082474226,1
+Hda_obj110.jpg,non-animal,head,animal,1078.91,24.074074074074087,0
+Hda_obj94.jpg,non-animal,head,non-animal,933.91,85.35885167464116,1
+M_N49014.jpg,animal,medium body,animal,1013.91,90.84057971014494,1
+M_N100011.jpg,animal,medium body,animal,963.91,82.5951016154247,1
+B_N109005.jpg,animal,close body,animal,893.91,88.15144766146993,1
+Hda_obj144.jpg,non-animal,head,non-animal,1023.91,85.70508692852542,1
+Mda_enc30.jpg,non-animal,medium body,non-animal,978.91,91.0734463276836,1
+Bda_gre607.jpg,non-animal,close body,non-animal,963.91,88.96625602570968,1
+H_N70063.jpg,animal,head,non-animal,893.91,15.891472868217036,0
+Bda_int741.jpg,non-animal,close body,non-animal,1008.91,85.42056074766356,1
+Mda_gre163.jpg,non-animal,medium body,non-animal,898.91,67.6905574516496,1
+H_N49059.jpg,animal,head,animal,988.91,89.0552995391705,1
+Mda_art1517.jpg,non-animal,medium body,non-animal,998.91,90.44911881750996,1
+Fda_art709.jpg,non-animal,far body,non-animal,968.91,91.0734463276836,1
+Fda_art1180.jpg,non-animal,far body,animal,1068.91,73.35984095427435,0
+B_N107091.jpg,animal,close body,animal,973.91,95.1543942992874,1
+Mda_city21.jpg,non-animal,medium body,non-animal,898.91,88.59060402684563,1
+M_N100082.jpg,animal,medium body,animal,933.91,80.20989505247377,1
+Bda_int46.jpg,non-animal,close body,non-animal,958.91,80.86860912589337,1
+M_N100073.jpg,animal,medium body,animal,978.91,90.26915113871635,1
+F_N70040.jpg,animal,far body,animal,1033.91,91.51785714285715,1
+F_N77034.jpg,animal,far body,non-animal,978.91,56.2955254942768,0
+Mda_gre189.jpg,non-animal,medium body,non-animal,1013.91,88.01843317972352,1
+Mda_gre199.jpg,non-animal,medium body,non-animal,963.91,87.59689922480621,1
+Hda_obj93.jpg,non-animal,head,non-animal,1678.91,94.28571428571428,1
+H_N100067.jpg,animal,head,animal,983.91,90.36016949152544,1
+Fda_art358.jpg,non-animal,far body,non-animal,1168.91,88.11881188118812,1
+H_N70028.jpg,animal,head,animal,1533.91,95.80983078162772,1
+B_N106094.jpg,animal,close body,animal,1023.91,86.0931899641577,1
+Mda_art1528.jpg,non-animal,medium body,non-animal,1008.91,88.12785388127853,1
+F_N77039.jpg,animal,far body,animal,908.91,33.44827586206896,1
+Fda_art1394.jpg,non-animal,far body,non-animal,1088.91,63.63636363636363,1
+Hda_obj88.jpg,non-animal,head,non-animal,888.91,87.63169949610628,1
+Fda_art246.jpg,non-animal,far body,non-animal,1398.91,91.01527403414195,1
+Fda_art560.jpg,non-animal,far body,non-animal,983.91,84.40637920850563,1
+M_N77010.jpg,animal,medium body,animal,1023.91,85.75020955574182,1
+Hda_obj87.jpg,non-animal,head,non-animal,1588.91,93.75928677563152,1
+Fda_art1317.jpg,non-animal,far body,non-animal,998.91,76.0553633217993,1
+F_N77005.jpg,animal,far body,animal,948.91,91.44215530903328,1
+H_N103056.jpg,animal,head,animal,973.91,89.84198645598194,1
+Fda_art1017.jpg,non-animal,far body,non-animal,978.91,86.48782911077994,1
+Hda_obj91.jpg,non-animal,head,non-animal,948.91,84.35754189944133,1
+Mda_art600.jpg,non-animal,medium body,tie,998.91,37.11967545638946,0
+B_N105065.jpg,animal,close body,animal,1013.91,87.39884393063583,1
+Bda_int753.jpg,non-animal,close body,non-animal,1003.91,90.14326647564472,1
+Mda_art1312.jpg,non-animal,medium body,tie,983.91,51.53256704980842,0
+Mda_art1084.jpg,non-animal,medium body,non-animal,983.91,84.28571428571429,1
+H_N104048.jpg,animal,head,animal,1028.91,92.01369081574444,1
+F_N104019.jpg,animal,far body,animal,1168.91,93.56164383561642,1
+Bda_art1175.jpg,non-animal,close body,non-animal,903.91,90.51061906913692,1
+B_N77063.jpg,animal,close body,animal,908.91,92.34972677595628,1
+B_N77089.jpg,animal,close body,animal,903.91,81.7870884993587,1
+F_N103083.jpg,animal,far body,non-animal,1008.91,88.19672131147541,0
+Mda_art547.jpg,non-animal,medium body,non-animal,1018.91,84.40677966101694,1
+H_N104087.jpg,animal,head,animal,973.91,76.9646070785843,1
+Bda_enc67.jpg,non-animal,close body,non-animal,1008.91,57.43772241992882,1
+F_N77035.jpg,animal,far body,non-animal,1028.91,53.7313432835821,0
+Bda_art1193.jpg,non-animal,close body,non-animal,1003.91,90.47114875595554,1
+Bda_int767.jpg,non-animal,close body,non-animal,1028.91,88.42443729903536,1
+Mda_art1136.jpg,non-animal,medium body,tie,1008.91,83.26869806094183,0
+Bda_art1168.jpg,non-animal,close body,non-animal,913.91,87.27187646233038,1
+Mda_art1680.jpg,non-animal,medium body,non-animal,948.91,80.47371461582901,1
+H_N49035.jpg,animal,head,animal,933.91,93.1423611111111,1
+F_N77022.jpg,animal,far body,non-animal,1018.91,43.290043290043286,0
+Fda_art1465.jpg,non-animal,far body,animal,1073.91,82.94930875576036,0
+Bda_int78.jpg,non-animal,close body,non-animal,963.91,84.37330439500815,1
+Fda_art1464.jpg,non-animal,far body,animal,1033.91,57.94066317626528,0
+Bda_art1164.jpg,non-animal,close body,non-animal,933.91,85.57784145176696,1
+Bda_int16.jpg,non-animal,close body,non-animal,933.91,87.83308195072901,1
+H_N75048.jpg,animal,head,tie,883.91,49.80079681274899,0
+Mda_art843.jpg,non-animal,medium body,non-animal,1018.91,87.06833210874359,1
+Fda_art36.jpg,non-animal,far body,non-animal,1438.91,93.28039095907148,1
+Mda_art669.jpg,non-animal,medium body,non-animal,938.91,87.9591836734694,1
+M_N103057.jpg,animal,medium body,animal,943.91,59.04761904761905,1
+B_N77058.jpg,animal,close body,animal,1008.91,85.30715642811906,1
+H_N100061.jpg,animal,head,animal,1013.91,92.69183922046284,1
+Mda_gre90.jpg,non-animal,medium body,non-animal,1008.91,85.44378698224851,1
+Bda_int211.jpg,non-animal,close body,non-animal,983.91,86.48974668275031,1
+Hda_obj112.jpg,non-animal,head,non-animal,993.91,86.94117647058822,1
+B_N108006.jpg,animal,close body,animal,1193.91,85.00772797527047,1
+F_N77075.jpg,animal,far body,animal,993.91,59.03954802259887,1
+B_N100040.jpg,animal,close body,animal,1028.91,92.36552920763448,1
+H_N75087.jpg,animal,head,non-animal,978.91,83.88791593695271,0
+Mda_gre321.jpg,non-animal,medium body,non-animal,988.91,92.3290717065036,1
+M_N77080.jpg,animal,medium body,animal,1018.91,89.728453364817,1
+Bda_art1367.jpg,non-animal,close body,non-animal,923.91,87.26053639846742,1
+H_N70013.jpg,animal,head,animal,1033.91,94.4,1
+Fda_art1249.jpg,non-animal,far body,non-animal,983.91,86.98507462686568,1
+F_N77072.jpg,animal,far body,non-animal,963.91,35.182481751824824,0
+B_N77079.jpg,animal,close body,animal,963.91,93.01848049281315,1
+Hda_obj90.jpg,non-animal,head,non-animal,923.91,84.18079096045197,1
+Hda_obj100.jpg,non-animal,head,tie,948.91,76.19589977220956,0
+Hda_obj257.jpg,non-animal,head,animal,938.91,64.09714889123549,0
+F_N77037.jpg,animal,far body,non-animal,913.91,60.48109965635739,0
+M_N100096.jpg,animal,medium body,animal,953.91,89.49648077964267,1
+M_N100039.jpg,animal,medium body,animal,988.91,47.55555555555555,1
+B_N103008.jpg,animal,close body,animal,1018.91,92.66737513283742,1
+Hda_obj172.jpg,non-animal,head,non-animal,883.91,78.71208089409261,1
+H_N49087.jpg,animal,head,animal,923.91,86.75363773206222,1
+B_N104097.jpg,animal,close body,animal,1003.91,92.62981574539364,1
+B_N77036.jpg,animal,close body,animal,993.91,81.4014407334643,1
+Fda_art1418.jpg,non-animal,far body,non-animal,1183.91,91.625,1
+F_N77085.jpg,animal,far body,animal,998.91,81.98553583168967,1
+Mda_art750.jpg,non-animal,medium body,non-animal,1028.91,91.03608847497088,1
+B_N77081.jpg,animal,close body,animal,953.91,90.83890890375706,1
+Fda_art462.jpg,non-animal,far body,non-animal,1113.91,93.61147327249022,1
+M_N77001.jpg,animal,medium body,animal,938.91,85.01026694045176,1
+M_N100062.jpg,animal,medium body,animal,958.91,85.58467741935483,1
+Bda_gre298.jpg,non-animal,close body,non-animal,1018.91,91.26436781609196,1
+M_N77006.jpg,animal,medium body,animal,1053.91,86.3275039745628,1
+B_N107080.jpg,animal,close body,animal,923.91,89.68291528632275,1
+B_N106095.jpg,animal,close body,animal,943.91,93.65079365079364,1
+F_N77038.jpg,animal,far body,animal,963.91,87.41433021806854,1
+B_N77061.jpg,animal,close body,animal,1013.91,92.81828073993468,1
+F_N70087.jpg,animal,far body,animal,1278.91,63.676148796498886,1
+H_N70081.jpg,animal,head,animal,1343.91,93.84184744576626,1
+B_N107001.jpg,animal,close body,animal,903.91,86.50943396226415,1
+B_N107030.jpg,animal,close body,animal,1023.91,86.72299336149669,1
+H_N70041.jpg,animal,head,animal,1713.91,96.42857142857142,1
+H_N112073.jpg,animal,head,animal,963.91,92.7216811891338,1
+Fda_urb752.jpg,non-animal,far body,non-animal,963.91,42.599277978339366,1
+M_N109023.jpg,animal,medium body,animal,968.91,92.25352112676056,1
+Bda_room170.jpg,non-animal,close body,non-animal,998.91,94.30485762144052,1
+Bda_room43.jpg,non-animal,close body,non-animal,928.91,78.0431786862655,1
+B_N160037.jpg,animal,close body,animal,913.91,88.40996168582376,1
+M_N109034.jpg,animal,medium body,animal,933.91,88.03986710963456,1
+Bda_room185.jpg,non-animal,close body,non-animal,953.91,93.09701492537312,1
+M_N103073.jpg,animal,medium body,animal,933.91,90.24390243902438,1
+Fda_street63.jpg,non-animal,far body,non-animal,898.91,28.22966507177033,1
+M_N107061.jpg,animal,medium body,non-animal,928.91,51.52317880794703,0
+Fda_street29.jpg,non-animal,far body,animal,958.91,22.98624754420431,0
+Hda_obj454.jpg,non-animal,head,non-animal,913.91,87.41126360624703,1
+H_N109080.jpg,animal,head,animal,993.91,86.37992831541219,1
+Mda_urb447.jpg,non-animal,medium body,non-animal,1028.91,81.24562631210637,1
+H_N108001.jpg,animal,head,animal,978.91,54.59882583170253,1
+Hda_obj292.jpg,non-animal,head,animal,1003.91,43.85285575992256,0
+M_N106088.jpg,animal,medium body,non-animal,1008.91,66.24605678233438,0
+Bda_room188.jpg,non-animal,close body,non-animal,993.91,83.25013865779258,1
+B_N110000.jpg,animal,close body,animal,978.91,88.24752990119606,1
+H_N110048.jpg,animal,head,animal,973.91,86.24052004333694,1
+M_N105003.jpg,animal,medium body,animal,923.91,90.1811248808389,1
+F_N105005.jpg,animal,far body,animal,1058.91,76.45687645687646,1
+Hda_room421.jpg,non-animal,head,non-animal,973.91,84.21052631578947,1
+B_N109057.jpg,animal,close body,animal,998.91,93.78947368421052,1
+Fda_urb404.jpg,non-animal,far body,non-animal,1103.91,92.38329238329236,1
+M_N106096.jpg,animal,medium body,animal,1008.91,77.90414297319253,1
+Hda_obj357.jpg,non-animal,head,non-animal,983.91,83.33333333333333,1
+F_N130047.jpg,animal,far body,animal,1168.91,93.93939393939394,1
+B_N123059.jpg,animal,close body,animal,1008.91,92.59708737864078,1
+Hda_obj404.jpg,non-animal,head,non-animal,988.91,60.55363321799309,1
+Hda_obj348.jpg,non-animal,head,tie,913.91,40.69400630914827,0
+F_N130050.jpg,animal,far body,animal,1033.91,92.296918767507,1
+H_N108069.jpg,animal,head,animal,988.91,84.59858001092299,1
+B_N112079.jpg,animal,close body,animal,983.91,89.13043478260869,1
+H_N104093.jpg,animal,head,animal,928.91,88.00615069195284,1
+F_N105002.jpg,animal,far body,animal,1013.91,64.23076923076923,1
+H_N105069.jpg,animal,head,animal,953.91,87.65765765765767,1
+Mda_gre329.jpg,non-animal,medium body,non-animal,1183.91,92.62295081967214,1
+Bda_room141.jpg,non-animal,close body,non-animal,918.91,79.3731041456016,1
+Hda_obj343.jpg,non-animal,head,non-animal,908.91,76.95133149678604,1
+Mda_urb276.jpg,non-animal,medium body,non-animal,1208.91,95.48095545513236,1
+Hda_room425.jpg,non-animal,head,non-animal,993.91,86.74901740595172,1
+Bda_room9.jpg,non-animal,close body,non-animal,903.91,87.59541984732824,1
+Mda_urb214.jpg,non-animal,medium body,non-animal,998.91,87.24202626641652,1
+Fda_art1486.jpg,non-animal,far body,non-animal,1378.91,94.33962264150944,1
+F_N106023.jpg,animal,far body,animal,988.91,84.58574181117534,1
+H_N108003.jpg,animal,head,animal,1503.91,94.579945799458,1
+M_N107064.jpg,animal,medium body,animal,1068.91,87.9278158058494,1
+Hda_room419.jpg,non-animal,head,non-animal,953.91,90.03944773175543,1
+Hda_room431.jpg,non-animal,head,non-animal,953.91,88.91328210757409,1
+M_N105096.jpg,animal,medium body,animal,888.91,81.2170579779588,1
+F_N160025.jpg,animal,far body,animal,1023.91,90.09174311926604,1
+Fda_art1529.jpg,non-animal,far body,non-animal,918.91,91.83874139626352,1
+F_N130086.jpg,animal,far body,non-animal,908.91,38.67924528301887,0
+F_N107065.jpg,animal,far body,animal,1028.91,61.53846153846153,1
+F_N130054.jpg,animal,far body,animal,998.91,88.32369942196532,1
+Hda_obj295.jpg,non-animal,head,non-animal,973.91,80.98050797401064,1
+H_N105084.jpg,animal,head,animal,943.91,86.7043847241867,1
+Hda_obj345.jpg,non-animal,head,non-animal,943.91,91.91213180229654,1
+F_N104022.jpg,animal,far body,animal,1018.91,87.78947368421053,1
+Bda_room178.jpg,non-animal,close body,non-animal,978.91,88.25431034482759,1
+B_N110022.jpg,animal,close body,animal,933.91,91.26034958601656,1
+Fda_enc51.jpg,non-animal,far body,non-animal,1198.91,70.91561938958706,1
+Mda_par135.jpg,non-animal,medium body,tie,973.91,48.08259587020649,0
+Mda_urb700.jpg,non-animal,medium body,animal,1023.91,28.14814814814815,0
+H_N105050.jpg,animal,head,animal,958.91,77.75189283634245,1
+Bda_room4.jpg,non-animal,close body,non-animal,988.91,87.31769181991122,1
+Fda_urb794.jpg,non-animal,far body,non-animal,1318.91,90.82426127527216,1
+M_N104028.jpg,animal,medium body,animal,978.91,87.60021378941742,1
+F_N106010.jpg,animal,far body,animal,988.91,92.78722308088612,1
+Fda_art1470.jpg,non-animal,far body,non-animal,1333.91,89.55895589558958,1
+Hda_obj418.jpg,non-animal,head,non-animal,998.91,80.68697342838625,1
+Fda_art1684.jpg,non-animal,far body,non-animal,988.91,19.18735891647857,1
+M_N108035.jpg,animal,medium body,animal,943.91,87.63440860215053,1
+Mda_urb324.jpg,non-animal,medium body,non-animal,1028.91,81.86429930247306,1
+M_N104077.jpg,animal,medium body,animal,988.91,90.134994807892,1
+Fda_obj230.jpg,non-animal,far body,non-animal,908.91,46.53179190751446,1
+Bda_room452.jpg,non-animal,close body,non-animal,963.91,89.28762720942687,1
+M_N105017.jpg,animal,medium body,animal,1018.91,91.21265377855887,1
+Bda_room12.jpg,non-animal,close body,non-animal,988.91,84.92239467849224,1
+Hda_obj293.jpg,non-animal,head,non-animal,958.91,87.52535496957404,1
+Hda_obj450.jpg,non-animal,head,non-animal,1023.91,83.7806967447173,1
+M_N106015.jpg,animal,medium body,animal,933.91,91.60186625194405,1
+M_N103060.jpg,animal,medium body,animal,1583.91,93.69024856596558,1
+B_N123069.jpg,animal,close body,animal,928.91,87.30478589420653,1
+Hda_obj298.jpg,non-animal,head,non-animal,953.91,91.92327107521452,1
+Mda_urb580.jpg,non-animal,medium body,non-animal,988.91,91.82988248461108,1
+Bda_room451.jpg,non-animal,close body,non-animal,998.91,89.69072164948454,1
+H_N110008.jpg,animal,head,animal,1003.91,81.28342245989305,1
+Bda_urb280.jpg,non-animal,close body,non-animal,918.91,88.8836992059785,1
+Mda_urb659.jpg,non-animal,medium body,non-animal,973.91,90.42958129418165,1
+H_N107079.jpg,animal,head,animal,973.91,87.6372039283651,1
+Mda_hous47.jpg,non-animal,medium body,non-animal,1013.91,70.49626104690687,1
+Fda_urb715.jpg,non-animal,far body,non-animal,973.91,44.24920127795527,1
+Fda_art1626.jpg,non-animal,far body,animal,968.91,86.73740053050398,0
+B_N112094.jpg,animal,close body,animal,1008.91,83.47386172006746,1
+Mda_urb562.jpg,non-animal,medium body,animal,993.91,39.424280350438046,0
+M_N104019.jpg,animal,medium body,animal,1008.91,88.43494657448144,1
+Bda_urb272.jpg,non-animal,close body,animal,993.91,83.08457711442786,0
+M_N104002.jpg,animal,medium body,animal,1008.91,89.89547038327527,1
+F_N105041.jpg,animal,far body,animal,1223.91,92.0911528150134,1
+F_N130006.jpg,animal,far body,animal,1488.91,93.29858525688756,1
+Mda_urb840.jpg,non-animal,medium body,non-animal,1078.91,87.32673267326732,1
+Mda_urb902.jpg,non-animal,medium body,non-animal,928.91,86.15384615384616,1
+Hda_obj433.jpg,non-animal,head,non-animal,1018.91,88.24242424242424,1
+H_N105059.jpg,animal,head,animal,988.91,85.53459119496854,1
+Fda_urb128.jpg,non-animal,far body,non-animal,1558.91,90.752688172043,1
+H_N109020.jpg,animal,head,animal,928.91,84.52075858534086,1
+B_N110090.jpg,animal,close body,animal,968.91,92.73094396769308,1
+Mda_par104.jpg,non-animal,medium body,non-animal,1158.91,90.71672354948804,1
+F_N130046.jpg,animal,far body,animal,1028.91,84.984520123839,1
+Fda_city83.jpg,non-animal,far body,non-animal,1178.91,91.81547619047618,1
+Hda_obj396.jpg,non-animal,head,non-animal,958.91,82.97611757501531,1
+Fda_osun36.jpg,non-animal,far body,non-animal,1028.91,85.3793103448276,1
+Fda_urb540.jpg,non-animal,far body,non-animal,1018.91,88.36363636363636,1
+M_N107052.jpg,animal,medium body,tie,988.91,71.94473963868226,0
+Hda_obj394.jpg,non-animal,head,non-animal,923.91,89.45487042001787,1
+Fda_city49.jpg,non-animal,far body,non-animal,1363.91,92.24924012158051,1
+F_N106016.jpg,animal,far body,animal,1253.91,90.91586001489205,1
+H_N105074.jpg,animal,head,animal,1018.91,86.5558912386707,1
+Fda_art1535.jpg,non-animal,far body,non-animal,1088.91,90.026714158504,1
+Hda_obj416.jpg,non-animal,head,non-animal,953.91,77.50959956116291,1
+Mda_urb382.jpg,non-animal,medium body,non-animal,968.91,82.62331838565022,1
+B_N109095.jpg,animal,close body,animal,983.91,88.6495007882291,1
+Bda_urb286.jpg,non-animal,close body,non-animal,903.91,89.50301904319554,1
+Mda_hous31.jpg,non-animal,medium body,non-animal,998.91,83.84879725085909,1
+Mda_hexp26.jpg,non-animal,medium body,non-animal,1033.91,84.87768717568571,1
+H_N106007.jpg,animal,head,animal,948.91,89.81233243967829,1
+F_N104070.jpg,animal,far body,animal,1028.91,83.16361167684997,1
+Bda_room133.jpg,non-animal,close body,non-animal,983.91,86.84491978609626,1
+B_N134098.jpg,animal,close body,animal,1003.91,88.23529411764707,1
+B_N163069.jpg,animal,close body,animal,963.91,91.75465057818,1
+F_N104037.jpg,animal,far body,animal,998.91,90.20044543429844,1
+Mda_urb230.jpg,non-animal,medium body,non-animal,963.91,90.2197802197802,1
+H_N106056.jpg,animal,head,animal,978.91,87.46232670283302,1
+Bda_room28.jpg,non-animal,close body,non-animal,983.91,90.07299270072993,1
+F_N130009.jpg,animal,far body,animal,963.91,90.1292596944771,1
+Bda_room165.jpg,non-animal,close body,tie,913.91,77.31660231660231,0
+Bda_urb291.jpg,non-animal,close body,non-animal,993.91,84.85875706214688,1
+Mda_hexp5.jpg,non-animal,medium body,non-animal,1183.91,93.35423197492165,1
+Bda_obj123.jpg,non-animal,close body,non-animal,993.91,84.12473423104181,1
+Mda_par140.jpg,non-animal,medium body,non-animal,1028.91,65.44117647058823,1
+H_N106099.jpg,animal,head,animal,958.91,87.06673564407657,1
+F_N106043.jpg,animal,far body,animal,978.91,91.7665450755602,1
+Fda_gre536.jpg,non-animal,far body,tie,788.91,15.991471215351812,0
+Bda_urb596.jpg,non-animal,close body,non-animal,908.91,79.43469785575049,1
+Fda_gre479.jpg,non-animal,far body,non-animal,898.91,18.503937007874008,1
+Bda_int770.jpg,non-animal,close body,non-animal,1013.91,81.3443072702332,1
+Bda_room454.jpg,non-animal,close body,non-animal,973.91,86.77274987568376,1
+H_N123009.jpg,animal,head,animal,1008.91,60.097323600973255,1
+Mda_urb556.jpg,non-animal,medium body,non-animal,1363.91,94.5288753799392,1
+Fda_urb306.jpg,non-animal,far body,non-animal,983.91,57.99299883313886,1
+Mda_urb384.jpg,non-animal,medium body,tie,1028.91,80.35450516986705,0
+M_N105008.jpg,animal,medium body,animal,923.91,86.1353711790393,1
+B_N134010.jpg,animal,close body,animal,1028.91,91.95402298850574,1
+H_N104098.jpg,animal,head,animal,898.91,83.93953708077467,1
+Mda_urb982.jpg,non-animal,medium body,non-animal,1038.91,87.04856787048567,1
+Bda_room493.jpg,non-animal,close body,non-animal,988.91,84.69626168224299,1
+Hda_obj296.jpg,non-animal,head,animal,963.91,17.419354838709683,0
+B_N123042.jpg,animal,close body,animal,918.91,90.87719298245614,1
+F_N130089.jpg,animal,far body,animal,1103.91,87.56302521008402,1
+B_N109016.jpg,animal,close body,animal,1003.91,91.84681902408892,1
+H_N123022.jpg,animal,head,animal,1543.91,95.58173784977907,1
+Mda_urb951.jpg,non-animal,medium body,non-animal,963.91,41.28440366972476,1
+M_N109000.jpg,animal,medium body,animal,1003.91,89.8780487804878,1
+Bda_room23.jpg,non-animal,close body,non-animal,983.91,88.79023307436182,1
+H_N109011.jpg,animal,head,animal,878.91,90.47198941332158,1
+Fda_city14.jpg,non-animal,far body,animal,983.91,79.29606625258798,0
+F_N130083.jpg,animal,far body,non-animal,998.91,91.77350427350429,0
+B_N160076.jpg,animal,close body,animal,998.91,88.08705612829324,1
+Hda_obj414.jpg,non-animal,head,non-animal,933.91,88.88386805241754,1
+Hda_obj265.jpg,non-animal,head,animal,1008.91,50.827814569536415,0
+Hda_obj390.jpg,non-animal,head,non-animal,968.91,77.47511786275535,1
+F_N130011.jpg,animal,far body,non-animal,1093.91,83.76068376068378,0
+M_N104039.jpg,animal,medium body,animal,908.91,85.95317725752508,1
+M_N103097.jpg,animal,medium body,animal,938.91,86.5063460253841,1
+B_N109045.jpg,animal,close body,animal,1018.91,88.16936488169365,1
+Hda_obj324.jpg,non-animal,head,non-animal,903.91,86.41475483580747,1
+H_N108024.jpg,animal,head,animal,998.91,78.28492392807746,1
+B_N109077.jpg,animal,close body,animal,923.91,85.45279383429674,1
+B_N123094.jpg,animal,close body,animal,1003.91,94.63440294581798,1
+Fda_city89.jpg,non-animal,far body,non-animal,998.91,82.97297297297297,1
+F_N160050.jpg,animal,far body,non-animal,1613.91,91.98931909212284,0
+Mda_urb515.jpg,non-animal,medium body,non-animal,1323.91,93.38345864661652,1
+B_N160088.jpg,animal,close body,animal,973.91,91.76470588235294,1
+Fda_urb342.jpg,non-animal,far body,non-animal,953.91,87.61345435130806,1
+M_N107035.jpg,animal,medium body,animal,998.91,88.91063274624918,1
+M_N104000.jpg,animal,medium body,animal,988.91,87.00564971751412,1
+Bda_room40.jpg,non-animal,close body,non-animal,1013.91,88.0232558139535,1
+M_N107050.jpg,animal,medium body,animal,1013.91,85.91954022988506,1
+B_N112087.jpg,animal,close body,animal,898.91,87.42956220199393,1
+B_N112022.jpg,animal,close body,animal,988.91,89.28768636112645,1
+F_N130020.jpg,animal,far body,tie,943.91,63.8121546961326,0
+B_N134097.jpg,animal,close body,animal,933.91,90.0,1
+F_N105045.jpg,animal,far body,animal,1723.91,92.85714285714286,1
+H_N110063.jpg,animal,head,animal,998.91,91.89034837235866,1
+B_N112063.jpg,animal,close body,animal,943.91,91.1153119092628,1
+B_N112084.jpg,animal,close body,animal,988.91,87.01923076923076,1
+H_N109049.jpg,animal,head,animal,1103.91,90.49969154842688,1

@@ -15,13 +15,30 @@ This project models the neural dynamics underlying **perceptual decision-making*
 
 ```
 Neuro-computational-Model-of-Decision/
-├── 1_DriftDiffusionModel.ipynb        # Mathematical DDM: evidence accumulation
-├── 2_AttractorNetwork.ipynb           # Recurrent neural circuit model (Wang 2002)
-├── 3_ParameterFitting.ipynb           # Fitting model parameters to behavioral data
-├── 4_SpeedAccuracyTradeoff.ipynb      # SAT analysis: boundary vs. accuracy
-└── utils/
-    ├── simulate.py                    # Core simulation functions
-    └── plot.py                        # Visualization helpers
+│
+├── 1_DriftDiffusionModel.ipynb      # Classical DDM: stochastic evidence accumulation
+├── 2_AttractorNetwork.ipynb         # Recurrent neural circuit model (Wang, 2002)
+├── 3_ParameterFitting.ipynb         # Model fitting to behavioral datasets
+├── 4_SpeedAccuracyTradeoff.ipynb    # Analysis of SAT effects on performance
+│
+├── decision_model.py                # Core model implementation
+├── test_model Amin.py               # Model testing script
+├── v.py                             # Utility or experiment script
+│
+├── utils/
+│   ├── simulate.py                  # Simulation engine for neural dynamics
+│   └── plot.py                     # Visualization utilities
+│
+├── model_0final.h5 ... model_6final.h5   # Trained neural network models
+├── R_DE1_amin.npy, R_DE2_amin.npy        # Experimental / simulation data
+├── pred_amin_all.npy, pred_amin_normalized.npy
+├── y_amin_all.npy, y_amin_sorted.npy
+│
+├── Figure_1.png
+├── Figure_2.png
+├── Figure_3.png
+│
+└── Report.pdf                        # Full project report
 ```
 
 ---

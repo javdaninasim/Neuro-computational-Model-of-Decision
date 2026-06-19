@@ -260,7 +260,7 @@ $$C_m \frac{dV}{dt} = -g_{\text{leak}}(V - V_L) - I_E - I_I + I_{\text{ext}}$$
 
 ---
 
-### 📞 Project Information
+### ℹ️ Project Information
 
 | Detail | Information |
 |:---|:---|
@@ -280,16 +280,6 @@ $$C_m \frac{dV}{dt} = -g_{\text{leak}}(V - V_L) - I_E - I_I + I_{\text{ext}}$$
 🔬 **Reproducible:** Complete pipeline from raw images to neural simulations  
 🎯 **Decision-Focused:** Models actual binary choice, not just classification  
 ⚡ **Spiking Networks:** Neuromorphic computing with spike-based dynamics  
-
----
-
-### 📜 Attribution & License
-
-This project contains computational models and experimental code from research in computational neuroscience at **Sharif University of Technology**, Department of Computer Engineering.
-
-**Author:** Nasim Javdani  
-**GitHub:** [@javdaninasim](https://github.com/javdaninasim)  
-**LinkedIn:** [Nasim Javdani](https://linkedin.com/in/nasim-javdani-810a9932a)  
 
 ---
 

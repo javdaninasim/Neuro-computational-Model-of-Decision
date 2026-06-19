@@ -280,9 +280,6 @@ $$C_m \frac{dV}{dt} = -g_{\text{leak}}(V - V_L) - I_E - I_I + I_{\text{ext}}$$
 🔬 **Reproducible:** Complete pipeline from raw images to neural simulations  
 🎯 **Decision-Focused:** Models actual binary choice, not just classification  
 ⚡ **Spiking Networks:** Neuromorphic computing with spike-based dynamics  
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=100&section=footer" width="100%"/>
 </div>

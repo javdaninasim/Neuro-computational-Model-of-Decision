@@ -294,8 +294,5 @@ This project contains computational models and experimental code from research i
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=100&section=footer" width="100%"/>
 </div>
-```
-
-Copy this entire text! It's ready to paste directly into your README.md file.

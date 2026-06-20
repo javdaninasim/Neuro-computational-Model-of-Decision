@@ -124,62 +124,6 @@ MATLAB implementation of the psychophysical task:
 
 ---
 
-### 🚀 Quick Start
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/javdaninasim/Neuro-computational-Model-of-Decision.git
-cd Neuro-computational-Model-of-Decision
-
-# 2. Create Python environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# 3. Install dependencies
-pip install numpy scipy tensorflow keras opencv-python scikit-learn matplotlib
-
-# 4. Run neural simulation
-python decision_model.py
-
-# 5. Run SVM classification
-python v.py
-
-# 6. Extract features from images
-python test_model\ Amin.py
-```
-
----
-
-### 📖 How to Use This Repository
-
-**Pipeline Overview:**
-
-1. **Feature Extraction** (`test_model Amin.py`)
-   - Loads images from dataset
-   - Applies Difference-of-Gaussians (DoG) filtering
-   - Processes through 6-layer CNN cascade
-   - Outputs 30×30 feature maps (`pred_amin_all.npy`)
-
-2. **Neural Simulation** (`decision_model.py`)
-   - Loads CNN features as evidence signals
-   - Runs spiking network for 600 image stimuli
-   - Integrates stochastic differential equations
-   - Records population firing rates (DE1, DE2)
-   - Saves neural activity (`R_DE1_amin.npy`, `R_DE2_amin.npy`)
-
-3. **Classification & Analysis** (`v.py`)
-   - Loads neural population activity
-   - Trains SVM with multiple kernels
-   - Evaluates binary classification (animal vs. non-animal)
-   - Generates confusion matrices and metrics
-
-4. **Results & Comparison**
-   - Compare model predictions with human behavioral data
-   - Analyze speed-accuracy trade-offs
-   - Plot firing rate trajectories and phase planes
-
----
-
 ### 📊 Key Components & Architecture
 
 #### **Spiking Neural Network (Wang 2002)**
@@ -271,15 +215,6 @@ $$C_m \frac{dV}{dt} = -g_{\text{leak}}(V - V_L) - I_E - I_I + I_{\text{ext}}$$
 | **Models Implemented** | Drift-Diffusion Model, Wang 2002 Spiking Circuit, CNN Feature Extraction |
 | **Key Datasets** | 600 image trials, human behavioral responses, neural population recordings |
 
----
-
-### 🌟 Highlights
-
-🧠 **Biologically Realistic:** Based on validated neuroscience (Wang 2002)  
-📊 **Multi-Scale Integration:** Links pixels → CNN features → neural dynamics → behavior  
-🔬 **Reproducible:** Complete pipeline from raw images to neural simulations  
-🎯 **Decision-Focused:** Models actual binary choice, not just classification  
-⚡ **Spiking Networks:** Neuromorphic computing with spike-based dynamics  
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=100&section=footer" width="100%"/>
 </div>
